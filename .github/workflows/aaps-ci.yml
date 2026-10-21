@@ -1,4 +1,4 @@
-name: AAPS CI
+name: Build AAPS
 
 on:
   workflow_dispatch:
